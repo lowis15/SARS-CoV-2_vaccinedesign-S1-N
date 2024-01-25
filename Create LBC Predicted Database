@@ -1,0 +1,58 @@
+library(readr)
+library(tidyverse)
+library(fs)
+library(dplyr)
+library(tidyr)
+
+#Read All Files
+data.split <- list.files(pattern = "summary")
+
+#Create empty data frame to store combined .csv files 
+data.merge <- data.frame()
+
+# Loop through each CSV file and append its data to the combined data frame
+for (split in data.split) {
+  data <- read.csv(split, header = TRUE)
+  data.merge <- rbind(data.merge, data)
+}
+
+Validation of Merge by ID
+ID <- unique(data.merge$Entry)
+length(ID)
+
+#Filter 
+data.filter <- filter(data.merge, EpitopeProbability > 0.5)
+view(data.filter)
+
+#Merge Amino Acid in Consecutive Position
+aa.merge <- data.filter %>%
+  group_by(Entry) %>%
+  mutate(pos_grp = cumsum(c(TRUE, diff(Position) != 1))) %>%
+  group_by(Entry, pos_grp) %>%
+  summarise(pos_start = min(Position),
+            pos_end = max(Position),
+            merged_aa = paste(AminoAcid, collapse = ""),
+            .groups = "drop") %>%
+  mutate(merged_pos = ifelse(pos_start == pos_end, pos_start, paste(pos_start, pos_end, sep = "-"))) %>%
+  select(Entry, merged_pos, merged_aa) %>%
+  distinct()
+
+View(aa.merge)
+
+#Count Merged Amino Acid and Its Conservatory Analysis
+aa.count <-  aa.merge %>% 
+                count(merged_aa, merged_pos) %>% 
+                group_by(merged_aa, merged_pos) %>%
+                summarise(n = sum(n),
+                          conservatory_percentage = n/length(ID)*100)
+View(aa.count)
+
+#Filter Peptide with less than 5 characters 
+aa.filtered <- aa.count %>% 
+  filter(nchar(merged_aa) >= 5)
+
+View(aa.filtered)
+
+#Save to Excel 
+library(openxlsx)
+write.xlsx(aa.filtered, file = "File Name.xlsx")
