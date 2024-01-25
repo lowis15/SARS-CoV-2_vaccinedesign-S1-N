@@ -1,0 +1,16 @@
+library(Biostrings)
+
+#Read FASTA file
+seqs <- readAAStringSet("S_Omicron_Trimmed.fasta")
+
+#Identify dirrect connection of "RRAR" (ending pattern of S1) with "SVA" (starting pattern of S2)
+pattern <- "RRARSVA"
+
+#Use the pattern to create a logical vector of which sequences contain the pattern
+contains_pattern <- grepl(pattern, as.character(seqs))
+
+#Select the sequences that do not contain the pattern
+filtered_seqs <- seqs[!contains_pattern]
+filtered_seqs
+
+#Manually check the mutation of the returned sequences
