@@ -1,0 +1,39 @@
+pip install iedb
+pip install Bio
+pip install pandas 
+
+import iedb
+from Bio import SeqIO
+import pandas as pd
+import time
+
+# Load the FASTA file
+fasta_file = "N_Wuhan.fasta"
+sequences = SeqIO.parse(fasta_file, "fasta")
+
+# Initialize an empty list to store the results
+results = []
+
+# Loop over all sequences
+for seq_record in sequences:
+    # Get the accession number of the current sequence
+    acc_num = seq_record.id
+
+    # Predict B-cell epitopes for the current sequence
+bcell_res = iedb.query_bcell_epitope(method="Insert API according to the desired prediction", sequence=str(seq_record.seq), window_size=9)
+
+    # Add the accession number as a new column to the epitope table
+    bcell_res['Accession'] = acc_num
+
+    # Append the results to the list
+    results.append(bcell_res)
+
+    # Add a delay of 2 seconds before making the next request
+    time.sleep(2)
+
+# Concatenate the results into a single table
+final_table = pd.concat(results)
+
+print(final_table)
+
+# Save the final table as a CSV file
