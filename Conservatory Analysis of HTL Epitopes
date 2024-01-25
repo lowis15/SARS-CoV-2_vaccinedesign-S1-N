@@ -1,0 +1,43 @@
+library(readr)
+library(tidyverse)
+library(fs)
+library(dplyr)
+
+#Read All Files
+data.split <- list.files(pattern = "NetMHCIIpan.csv")
+
+#Create empty data frame to store combined .csv files 
+data.merge <- data.frame()
+
+#Loop through each CSV file and append its data to the combined data frame
+for (split in data.split) {
+  data <- read.csv(split,skip = 1, head = TRUE, sep = "")
+  data.merge <- rbind(data.merge, data)
+}
+
+#Verify the merging through number of ID
+ID <- unique(data.merge$ID)
+length(ID)
+
+#Trim and Filter
+data.filter<- data.merge %>% select(-starts_with("Rank_BA")) #Remove the 'Rank_BA' column to avoid duplication since it also start with 'Rank'
+data.filter2 <- data.filter %>% filter_at(vars(starts_with("Rank")), any_vars(. < 2.00))
+
+#Count Epitope Frequency
+data.count <- data.filter2 %>% 
+  group_by(Pos, ID, Peptide) %>%
+  summarise(epitope_frequency = sum(across(starts_with("Rank"), ~. < 2.00)), 
+            .groups = 'drop')
+View(data.count)
+
+#Conservatory Analysis of Epitopes (n divided by the total amount of sequences used)
+conserve <- data.count %>% 
+  count(epitope_frequency ,Peptide) %>% 
+  group_by(epitope_frequency ,Peptide) %>%
+  summarise(n = sum(n), 
+            conservatory_percentage = n/1*100)
+view(conserve)
+
+# create a new Excel workbook
+library(openxlsx)
+write.xlsx(conserve, file = "File Name.xlsx")
