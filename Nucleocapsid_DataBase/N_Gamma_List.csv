@@ -1,0 +1,369 @@
+Accession,Organism_Name,Release_Date,Pangolin,PangoVersions,Length,Nuc_Completeness,Protein,Geo_Location,Host,Isolation_Source,Collection_Date
+UBF23550.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-02-22
+URA47585.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-14
+URA47597.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-05
+URA47609.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-11
+URA47633.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-13
+URA47669.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-08
+URA62414.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-07
+URA62426.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-07
+URA62438.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-08
+URA62450.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-07
+URA62462.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-15
+URA63193.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-01
+URA63217.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-02
+URA63229.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-02
+URA63241.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-02
+URA63253.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-02
+URA63289.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-15
+URA74908.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-08
+URA74956.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-15
+URA74968.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-01
+URA75100.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-06
+URA75124.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-11
+URA86212.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-02
+URA86236.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-02
+URA86260.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-02
+URA86284.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-02
+URA86308.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-01
+URA87435.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-01
+URA87447.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-13
+URA87459.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-15
+URA87483.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-10
+URA87495.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,413,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-04
+URA87507.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,413,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-05-27
+URB55679.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-01
+URB55691.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-07-04
+URB56514.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-08
+URB56526.1,Severe acute respiratory syndrome coronavirus 2,2022-05-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,,2021-06-01
+QWT11137.1,Severe acute respiratory syndrome coronavirus 2,2021-06-16T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,oronasopharynx,2021-03-15
+QWT11149.1,Severe acute respiratory syndrome coronavirus 2,2021-06-16T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,oronasopharynx,2021-03-30
+QWT11172.1,Severe acute respiratory syndrome coronavirus 2,2021-06-16T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,oronasopharynx,2021-04-27
+QWT11184.1,Severe acute respiratory syndrome coronavirus 2,2021-06-16T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,oronasopharynx,2021-04-27
+QVE55285.1,Severe acute respiratory syndrome coronavirus 2,2021-05-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil,Homo sapiens,oronasopharynx,2021-02-07
+QVQ47347.1,Severe acute respiratory syndrome coronavirus 2,2021-05-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"Brazil: Amazonas, Manaus",Homo sapiens,,2020-12-21
+UOE99293.1,Severe acute respiratory syndrome coronavirus 2,2022-04-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"Brazil: Goias, Goiania",Homo sapiens,oronasopharynx,2021-04-14
+UOE99328.1,Severe acute respiratory syndrome coronavirus 2,2022-04-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"Brazil: Goias, Goiania",Homo sapiens,oronasopharynx,2021-04-10
+UEO57779.1,Severe acute respiratory syndrome coronavirus 2,2022-11-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"Brazil: Mato Grosso do Sul, Campo Grande",Homo sapiens,oronasopharynx,2020-08-24
+QXF23015.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-08
+QXF23027.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-09
+QXF23039.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-09
+QXF23051.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-10
+QXF23063.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-07
+QXF23206.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-05
+QXF23218.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-07
+QXF23230.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-09
+QXF23242.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-09
+QXF23254.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-08
+QXF23685.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-08
+QXF23697.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-11
+QXF23709.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-08
+QXF23721.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-07
+QXF23733.1,Severe acute respiratory syndrome coronavirus 2,2021-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-04-10
+QXF22416.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-07
+QXF22440.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-07
+QXF22476.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-02
+QXF22500.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-01
+QXF22512.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-05
+QXF22524.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-01
+QXF22536.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-06
+QXF22548.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-06
+QXF22560.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Parana,Homo sapiens,,2021-03-06
+WCZ78222.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Rio de Janeiro,Homo sapiens,,2020-04-29
+UZW44056.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-10
+UZW44092.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-06
+UZW44116.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-12
+UZW44625.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-12
+UZW44740.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-10
+UZW44856.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-13
+UZW45014.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-14
+UZW45318.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-06
+UZW45494.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-10
+UZW45973.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-11
+UZW48280.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-16
+UZW48328.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-16
+UZW48400.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-17
+UZW49311.1,Severe acute respiratory syndrome coronavirus 2,2022-11-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Brazil: Sao Paulo,Homo sapiens,oronasopharynx,2021-08-16
+UJO71344.1,Severe acute respiratory syndrome coronavirus 2,2022-01-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Canada,Homo sapiens,,2021-04-20
+UIC73871.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-08-08
+UIC73991.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,413,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-08-06
+UIC74003.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-08-08
+UIC74015.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-08-07
+UIC74039.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-09-21
+UIC74051.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-09-21
+UIC74715.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-09-28
+UIC74739.1,Severe acute respiratory syndrome coronavirus 2,2022-02-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Chile,Homo sapiens,oronasopharynx,2021-09-29
+UNJ27351.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Dominican Republic,Homo sapiens,oronasopharynx,2021-05-20
+UNJ27396.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Dominican Republic,Homo sapiens,oronasopharynx,2021-05-21
+UNJ27431.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Dominican Republic,Homo sapiens,oronasopharynx,2021-05-10
+UNJ27874.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Dominican Republic,Homo sapiens,oronasopharynx,2021-05-21
+UTS87291.1,Severe acute respiratory syndrome coronavirus 2,2022-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-01-27
+UQC43645.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UQC43657.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UQC43669.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UQC43681.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UQC43693.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UQC43717.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-28
+UQC43729.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-28
+UQC43741.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-28
+UQC43753.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-28
+UQC43765.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-31
+UQC43777.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-31
+UQC43813.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-08-01
+UQC43825.1,Severe acute respiratory syndrome coronavirus 2,2022-05-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-08-01
+UPE94980.1,Severe acute respiratory syndrome coronavirus 2,2022-04-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-02-03
+UPC95992.1,Severe acute respiratory syndrome coronavirus 2,2022-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-07-26
+UPD27368.1,Severe acute respiratory syndrome coronavirus 2,2022-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,France,Homo sapiens,,2021-06-14
+UJZ32567.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Germany,Homo sapiens,,2021-04-16
+UJZ32932.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Germany,Homo sapiens,,2021-05-31
+UJZ33068.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Germany,Homo sapiens,,2021-06-02
+UJZ33137.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Germany,Homo sapiens,,2021-06-07
+QWW27590.1,Severe acute respiratory syndrome coronavirus 2,2021-10-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"Germany: Bavaria, Augsburg",Homo sapiens,,2021-02-25
+QRX39409.1,Severe acute respiratory syndrome coronavirus 2,2021-02-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Italy,Homo sapiens,oronasopharynx,2021-01-18
+QRX39433.1,Severe acute respiratory syndrome coronavirus 2,2021-02-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Italy,Homo sapiens,oronasopharynx,2021-01-18
+WAP37953.1,Severe acute respiratory syndrome coronavirus 2,2022-12-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Laos: Xieng Khouang,Homo sapiens,,2021-11-24
+UCK94006.1,Severe acute respiratory syndrome coronavirus 2,2021-10-08T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico,Homo sapiens,,2021-02-03
+UDB15458.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Baja California,Homo sapiens,oronasopharynx,2021-06-29
+UDB15936.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Baja California,Homo sapiens,oronasopharynx,2021-06-29
+UDB16006.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Chihuahua,Homo sapiens,oronasopharynx,2021-06-28
+UDB15481.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-03
+UDB15515.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-06-28
+UDB15650.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-06-28
+UDB15877.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-03
+UDB15901.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-06
+UDB15948.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-03
+UDB15982.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-06
+UDB15994.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-06-29
+UDB16018.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-03
+UDB16064.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Mexico: Sonora,Homo sapiens,oronasopharynx,2021-07-06
+UCK70801.1,Severe acute respiratory syndrome coronavirus 2,2021-10-08T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,New Zealand,Homo sapiens,,2021-03-06
+UCK74789.1,Severe acute respiratory syndrome coronavirus 2,2021-10-08T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,New Zealand,Homo sapiens,,2021-05-13
+UNJ22169.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-31
+UNJ22204.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-24
+UNJ22264.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-04
+UNJ22300.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-07
+UNJ22396.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-04
+UNJ22432.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-12
+UNJ22444.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-11
+UNJ22515.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-06
+UNJ22587.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-03
+UNJ22611.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-13
+UNJ22659.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-20
+UNJ22719.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-30
+UNJ22779.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-28
+UNJ22874.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-05-04
+UNJ22909.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-07-06
+UNJ23039.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-06-18
+UNJ23063.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-06-01
+UNJ23075.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-06-15
+UNJ23087.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-06-08
+UNJ23135.1,Severe acute respiratory syndrome coronavirus 2,2022-03-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Paraguay,Homo sapiens,oronasopharynx,2021-06-06
+QTW99546.1,Severe acute respiratory syndrome coronavirus 2,2021-04-16T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Peru,Homo sapiens,oronasopharynx,2021-02-22
+UHK35528.1,Severe acute respiratory syndrome coronavirus 2,2021-12-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,South Korea,Homo sapiens,,2021
+UHK35540.1,Severe acute respiratory syndrome coronavirus 2,2021-12-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,South Korea,Homo sapiens,,2021
+UHJ32562.1,Severe acute respiratory syndrome coronavirus 2,2021-12-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,South Korea,Homo sapiens,,2021
+UNI08648.1,Severe acute respiratory syndrome coronavirus 2,2022-03-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Taiwan,Homo sapiens,"saliva, oronasopharynx",2021-07-04
+QVU28587.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Taiwan,Homo sapiens,oronasopharynx,2021-01-28
+QVU28599.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Taiwan,Homo sapiens,oronasopharynx,2021-01-28
+QVU28611.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Taiwan,Homo sapiens,oronasopharynx,2021-01-28
+QVU28623.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Taiwan,Homo sapiens,oronasopharynx,2021-01-28
+UTE95618.1,Severe acute respiratory syndrome coronavirus 2,2022-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-06-01
+UTE95774.1,Severe acute respiratory syndrome coronavirus 2,2022-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-06-09
+UTE97432.1,Severe acute respiratory syndrome coronavirus 2,2022-12-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-05-23
+UOL87440.1,Severe acute respiratory syndrome coronavirus 2,2022-12-30T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-04-01
+UOL87584.1,Severe acute respiratory syndrome coronavirus 2,2022-12-30T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-04-06
+UOL87716.1,Severe acute respiratory syndrome coronavirus 2,2022-12-30T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-04-06
+QYG71350.1,Severe acute respiratory syndrome coronavirus 2,2021-08-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,,2021-06-07
+QWU58153.1,Severe acute respiratory syndrome coronavirus 2,2021-06-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA,Homo sapiens,oronasopharynx,2021-05-08
+QUH41772.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Arizona,Homo sapiens,oronasopharynx,2021-04-03
+QUH72810.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Arizona,Homo sapiens,oronasopharynx,2021-04-06
+UJZ18437.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Arkansas,Homo sapiens,,2021-05-10
+UJZ18508.1,Severe acute respiratory syndrome coronavirus 2,2022-02-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Arkansas,Homo sapiens,,2021-04-15
+QXN53241.1,Severe acute respiratory syndrome coronavirus 2,2021-07-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Birmingham, AL",Homo sapiens,,2021-05-28
+QVE00221.1,Severe acute respiratory syndrome coronavirus 2,2021-05-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: California,Homo sapiens,oronasopharynx,2021-04-21
+UDB08246.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: California,San Diego",Homo sapiens,oronasopharynx,2021-06-16
+UDB09067.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: California,San Diego",Homo sapiens,oronasopharynx,2021-07-15
+UDB11613.1,Severe acute respiratory syndrome coronavirus 2,2021-10-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: California,San Diego",Homo sapiens,oronasopharynx,2021-07-21
+QVH28321.1,Severe acute respiratory syndrome coronavirus 2,2021-05-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Colorado,Homo sapiens,oronasopharynx,2021-04-26
+QVG14785.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Colorado,Homo sapiens,oronasopharynx,2021-04-28
+QVG19110.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Colorado,Homo sapiens,,2021-04-18
+QUH39925.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Connecticut,Homo sapiens,oronasopharynx,2021-04-05
+QUH40285.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Connecticut,Homo sapiens,oronasopharynx,2021-04-05
+QTY51969.1,Severe acute respiratory syndrome coronavirus 2,2021-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Connecticut,Homo sapiens,oronasopharynx,2021-03-16
+QWO61105.1,Severe acute respiratory syndrome coronavirus 2,2021-06-10T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: District of Columbia,Homo sapiens,oronasopharynx,2021-05-29
+QWO61117.1,Severe acute respiratory syndrome coronavirus 2,2021-06-10T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: District of Columbia,Homo sapiens,oronasopharynx,2021-05-29
+UCU18967.1,Severe acute respiratory syndrome coronavirus 2,2021-10-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,oronasopharynx,2021-07-16
+UBQ70346.1,Severe acute respiratory syndrome coronavirus 2,2021-09-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,,2021-07-22
+UBQ77704.1,Severe acute respiratory syndrome coronavirus 2,2021-09-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,,2021-07-20
+QUD52052.1,Severe acute respiratory syndrome coronavirus 2,2021-04-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,oronasopharynx,2021-04-01
+QUE19401.1,Severe acute respiratory syndrome coronavirus 2,2021-04-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,,2021-04-02
+QUE20397.1,Severe acute respiratory syndrome coronavirus 2,2021-04-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,,2021-03-31
+QUE40222.1,Severe acute respiratory syndrome coronavirus 2,2021-04-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Florida,Homo sapiens,oronasopharynx,2021-04-07
+UBG72532.1,Severe acute respiratory syndrome coronavirus 2,2021-09-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2021-06-18
+UBG98402.1,Severe acute respiratory syndrome coronavirus 2,2021-09-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2021-06-18
+UAZ39651.1,Severe acute respiratory syndrome coronavirus 2,2021-09-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: IA,Homo sapiens,oronasopharynx,2021-06-03
+QUV63454.1,Severe acute respiratory syndrome coronavirus 2,2021-05-06T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: IL,Homo sapiens,,2021-04-18
+QUM05280.1,Severe acute respiratory syndrome coronavirus 2,2021-04-29T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: IL,Homo sapiens,,2021-04-05
+QXL03525.1,Severe acute respiratory syndrome coronavirus 2,2021-07-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Idaho,Homo sapiens,oronasopharynx,2021-06-16
+QXG02051.1,Severe acute respiratory syndrome coronavirus 2,2021-07-02T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Idaho,Homo sapiens,oronasopharynx,2021-05-20
+QVJ47645.1,Severe acute respiratory syndrome coronavirus 2,2021-05-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,,2021-04-09
+QUC96235.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2021-03-29
+QUC96366.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2021-03-29
+QUD00207.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2021-03-29
+QTT50377.1,Severe acute respiratory syndrome coronavirus 2,2021-04-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2021-03-23
+QTS42385.1,Severe acute respiratory syndrome coronavirus 2,2021-04-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,,2021-03-15
+QTS44977.1,Severe acute respiratory syndrome coronavirus 2,2021-04-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Illinois,Homo sapiens,,2021-03-03
+UEF68681.1,Severe acute respiratory syndrome coronavirus 2,2021-11-05T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,,2021-04-29
+UCU62302.1,Severe acute respiratory syndrome coronavirus 2,2021-10-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-06-04
+UCU72733.1,Severe acute respiratory syndrome coronavirus 2,2021-10-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-06-07
+UCU76564.1,Severe acute respiratory syndrome coronavirus 2,2021-10-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-06-06
+UCU76576.1,Severe acute respiratory syndrome coronavirus 2,2021-10-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-06-05
+QVM43797.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-05-02
+QVM44049.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2021-05-02
+QVG32051.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,,2021-04-16
+QVG41190.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,,2021-04-16
+QVE13003.1,Severe acute respiratory syndrome coronavirus 2,2021-05-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Indiana,Homo sapiens,,2021-04-09
+UBE92510.1,Severe acute respiratory syndrome coronavirus 2,2021-09-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Iowa,Homo sapiens,oronasopharynx,2021-06-10
+QXL40800.1,Severe acute respiratory syndrome coronavirus 2,2021-07-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2021-06-17
+QXF85418.1,Severe acute respiratory syndrome coronavirus 2,2021-07-02T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kansas,Homo sapiens,,2021-06-11
+QXG12561.1,Severe acute respiratory syndrome coronavirus 2,2021-07-02T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2021-06-11
+QWE70161.1,Severe acute respiratory syndrome coronavirus 2,2021-06-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kentucky,Homo sapiens,oronasopharynx,2021-05-19
+QWC94570.1,Severe acute respiratory syndrome coronavirus 2,2021-06-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kentucky,Homo sapiens,oronasopharynx,2021-05-13
+QVU74754.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kentucky,Homo sapiens,oronasopharynx,2021-05-07
+QVV09231.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kentucky,Homo sapiens,,2021-04-23
+QUC97284.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Kentucky,Homo sapiens,oronasopharynx,2021-03-29
+QYV35381.1,Severe acute respiratory syndrome coronavirus 2,2021-08-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: LA,Homo sapiens,,2021-04-28
+QUQ02531.1,Severe acute respiratory syndrome coronavirus 2,2021-05-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: LA,Homo sapiens,,2021-04-11
+QVM42741.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Louisiana,Homo sapiens,oronasopharynx,2021-05-02
+QVO21573.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Louisiana,Homo sapiens,oronasopharynx,2021-05-09
+QUQ18698.1,Severe acute respiratory syndrome coronavirus 2,2021-05-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Louisiana,Homo sapiens,,2021-04-07
+QWS71347.1,Severe acute respiratory syndrome coronavirus 2,2021-06-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: MD,Homo sapiens,oronasopharynx,2021-05-18
+UAZ37773.1,Severe acute respiratory syndrome coronavirus 2,2021-09-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: MS,Homo sapiens,oronasopharynx,2021-06-02
+QVW44757.1,Severe acute respiratory syndrome coronavirus 2,2021-05-26T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maine,Homo sapiens,,2021-05-13
+QVV42186.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maine,Homo sapiens,oronasopharynx,2021-05-03
+QVM78019.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maine,Homo sapiens,oronasopharynx,2021-04-27
+QZD12098.1,Severe acute respiratory syndrome coronavirus 2,2021-08-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maryland,Homo sapiens,oronasopharynx,2021-07-06
+QZD16662.1,Severe acute respiratory syndrome coronavirus 2,2021-08-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maryland,Homo sapiens,oronasopharynx,2021-07-11
+QYJ43391.1,Severe acute respiratory syndrome coronavirus 2,2021-08-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maryland,Homo sapiens,,2021-07-06
+QWO59422.1,Severe acute respiratory syndrome coronavirus 2,2021-06-10T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Maryland,Homo sapiens,oronasopharynx,2021-05-25
+QUP35164.1,Severe acute respiratory syndrome coronavirus 2,2021-05-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-04-12
+QUP35946.1,Severe acute respiratory syndrome coronavirus 2,2021-05-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-04-11
+QUP38547.1,Severe acute respiratory syndrome coronavirus 2,2021-05-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-04-12
+QTY51480.1,Severe acute respiratory syndrome coronavirus 2,2021-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-03-09
+QTY51492.1,Severe acute respiratory syndrome coronavirus 2,2021-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-03-07
+QTY51719.1,Severe acute respiratory syndrome coronavirus 2,2021-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-03-11
+QTY52113.1,Severe acute respiratory syndrome coronavirus 2,2021-04-19T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Massachusetts,Homo sapiens,oronasopharynx,2021-03-16
+QUH65007.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,oronasopharynx,2021-04-06
+QUH71041.1,Severe acute respiratory syndrome coronavirus 2,2021-04-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,oronasopharynx,2021-04-06
+QUF14988.1,Severe acute respiratory syndrome coronavirus 2,2021-04-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,,2021-04-09
+QUF20692.1,Severe acute respiratory syndrome coronavirus 2,2021-04-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,,2021-03-26
+QUF26015.1,Severe acute respiratory syndrome coronavirus 2,2021-04-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,,2021-03-27
+QUA72967.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,oronasopharynx,2021-04-06
+QUA73147.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,oronasopharynx,2021-04-03
+QUA79920.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Michigan,Homo sapiens,,2021-03-30
+QVH01237.1,Severe acute respiratory syndrome coronavirus 2,2021-05-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Minnesota,Homo sapiens,,2021-04-22
+QUG19355.1,Severe acute respiratory syndrome coronavirus 2,2021-04-26T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Minnesota,Homo sapiens,,2021-04-02
+QUG19523.1,Severe acute respiratory syndrome coronavirus 2,2021-04-26T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Minnesota,Homo sapiens,,2021-04-02
+QVG52230.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Missouri,Homo sapiens,,2021-04-20
+QUQ29441.1,Severe acute respiratory syndrome coronavirus 2,2021-05-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Missouri,Homo sapiens,,2021-04-08
+WCB22323.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Montana,Homo sapiens,,2021-05-04
+QZX58103.1,Severe acute respiratory syndrome coronavirus 2,2021-09-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Montgomery, AL",Homo sapiens,,2021-08-06
+UOX08391.1,Severe acute respiratory syndrome coronavirus 2,2022-04-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Moscow, Idaho",Homo sapiens,oronasopharynx,2021-05-07
+ULU90273.1,Severe acute respiratory syndrome coronavirus 2,2022-02-27T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Moscow, Idaho",Homo sapiens,oronasopharynx,2021-05-14
+QWY98177.1,Severe acute respiratory syndrome coronavirus 2,2021-06-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: NE,Homo sapiens,oronasopharynx,2021-05-27
+QXG10800.1,Severe acute respiratory syndrome coronavirus 2,2021-07-02T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: NJ,Homo sapiens,,2021-06-07
+QYV39802.1,Severe acute respiratory syndrome coronavirus 2,2021-08-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: NM,Homo sapiens,oronasopharynx,2021-06-23
+QWP85386.1,Severe acute respiratory syndrome coronavirus 2,2021-06-11T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nebraska,Homo sapiens,,2021-05-26
+QWB58207.1,Severe acute respiratory syndrome coronavirus 2,2021-06-01T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nebraska,Homo sapiens,oronasopharynx,2021-05-10
+QUQ34392.1,Severe acute respiratory syndrome coronavirus 2,2021-05-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nebraska,Homo sapiens,,2021-04-08
+UAO14075.1,Severe acute respiratory syndrome coronavirus 2,2021-09-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2021-07-07
+QZP54584.1,Severe acute respiratory syndrome coronavirus 2,2021-08-31T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2021-08-07
+QYN84919.1,Severe acute respiratory syndrome coronavirus 2,2021-08-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2021-06-28
+QYI90833.1,Severe acute respiratory syndrome coronavirus 2,2021-08-04T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2021-07-06
+QXT49051.1,Severe acute respiratory syndrome coronavirus 2,2021-07-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2021-06-30
+QYX86649.1,Severe acute respiratory syndrome coronavirus 2,2021-08-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Hampshire,Homo sapiens,,2021-06-11
+QYX86673.1,Severe acute respiratory syndrome coronavirus 2,2021-08-15T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Hampshire,Homo sapiens,,2021-06-11
+QVH26884.1,Severe acute respiratory syndrome coronavirus 2,2021-05-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Jersey,Homo sapiens,,2021-04-25
+QVG07090.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Jersey,Homo sapiens,,2021-04-29
+QVE09421.1,Severe acute respiratory syndrome coronavirus 2,2021-05-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Jersey,Homo sapiens,oronasopharynx,2021-04-17
+QXK88532.1,Severe acute respiratory syndrome coronavirus 2,2021-07-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Mexico,Homo sapiens,oronasopharynx,2021-06-15
+QXK88556.1,Severe acute respiratory syndrome coronavirus 2,2021-07-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Mexico,Homo sapiens,oronasopharynx,2021-06-15
+QWY68652.1,Severe acute respiratory syndrome coronavirus 2,2021-06-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New Mexico,Homo sapiens,,2021-06-06
+QVO17890.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New York,Homo sapiens,oronasopharynx,2021-05-06
+QVO18720.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New York,Homo sapiens,oronasopharynx,2021-05-06
+QVO18732.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New York,Homo sapiens,oronasopharynx,2021-05-06
+QVK69718.1,Severe acute respiratory syndrome coronavirus 2,2021-05-18T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New York,Homo sapiens,oronasopharynx,2021-04-24
+QVJ13929.1,Severe acute respiratory syndrome coronavirus 2,2021-05-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: New York,Homo sapiens,,2021-04-08
+QVU85257.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: North Carolina,Homo sapiens,,2021-05-03
+QVU88138.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: North Carolina,Homo sapiens,,2021-05-03
+QUJ22728.1,Severe acute respiratory syndrome coronavirus 2,2021-04-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Ohio,Homo sapiens,oronasopharynx,2021-04-19
+QUJ22740.1,Severe acute respiratory syndrome coronavirus 2,2021-04-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Ohio,Homo sapiens,oronasopharynx,2021-04-20
+QUJ22982.1,Severe acute respiratory syndrome coronavirus 2,2021-04-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Ohio,Homo sapiens,oronasopharynx,2021-04-17
+QUJ22994.1,Severe acute respiratory syndrome coronavirus 2,2021-04-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Ohio,Homo sapiens,oronasopharynx,2021-04-17
+QVG18228.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Oregon,Homo sapiens,,2021-04-18
+QVG18480.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Oregon,Homo sapiens,,2021-04-20
+QVG20823.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Oregon,Homo sapiens,,2021-04-27
+QVG21027.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Oregon,Homo sapiens,,2021-04-27
+QVG21254.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Oregon,Homo sapiens,,2021-04-27
+QUP36150.1,Severe acute respiratory syndrome coronavirus 2,2021-05-03T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2021-04-11
+QUM13204.1,Severe acute respiratory syndrome coronavirus 2,2021-04-30T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2021-04-09
+QUA73135.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2021-04-04
+QUB31039.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,,2021-03-18
+QUD33089.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2021-03-31
+QTY74365.1,Severe acute respiratory syndrome coronavirus 2,2021-04-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2021-04-02
+QUF10519.1,Severe acute respiratory syndrome coronavirus 2,2021-04-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Rhode Island,Homo sapiens,,2021-04-02
+QUF16914.1,Severe acute respiratory syndrome coronavirus 2,2021-04-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Rhode Island,Homo sapiens,,2021-03-31
+QVU92347.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: South Carolina,Homo sapiens,,2021-05-01
+QVO44565.1,Severe acute respiratory syndrome coronavirus 2,2021-05-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: South Carolina,Homo sapiens,,2021-05-11
+QVP03251.1,Severe acute respiratory syndrome coronavirus 2,2021-05-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: South Carolina,Homo sapiens,,2021-03-20
+QVM55260.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: South Carolina,Homo sapiens,,2021-04-30
+QUM46686.1,Severe acute respiratory syndrome coronavirus 2,2021-04-30T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: South Carolina,Homo sapiens,oronasopharynx,2021-04-11
+QVU68315.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2021-05-06
+QVV00119.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2021-04-22
+QVV04319.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2021-04-22
+QVV09493.1,Severe acute respiratory syndrome coronavirus 2,2021-05-25T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2021-04-27
+QUA72691.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Texas,Homo sapiens,oronasopharynx,2021-04-05
+QUA72703.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Texas,Homo sapiens,oronasopharynx,2021-04-04
+QUA72739.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Texas,Homo sapiens,oronasopharynx,2021-04-05
+QUA72799.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Texas,Homo sapiens,oronasopharynx,2021-04-06
+QUA72823.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Texas,Homo sapiens,oronasopharynx,2021-04-05
+QXL07341.1,Severe acute respiratory syndrome coronavirus 2,2021-07-09T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Utah,Homo sapiens,,2021-06-25
+QVG48783.1,Severe acute respiratory syndrome coronavirus 2,2021-05-13T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Vermont,Homo sapiens,,2021-04-22
+QYC02422.1,Severe acute respiratory syndrome coronavirus 2,2021-07-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Virginia,Homo sapiens,,2021-07
+QXU72453.1,Severe acute respiratory syndrome coronavirus 2,2021-07-23T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Virginia,Homo sapiens,,2021-07
+QXT48844.1,Severe acute respiratory syndrome coronavirus 2,2021-07-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Virginia,Homo sapiens,,2021-07
+QXT11064.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2021-07-03
+QXT11076.1,Severe acute respiratory syndrome coronavirus 2,2021-07-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2021-07-03
+QXD39406.1,Severe acute respiratory syndrome coronavirus 2,2021-06-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Washington,Spokane County",Homo sapiens,,2021-05-15
+QXD39430.1,Severe acute respiratory syndrome coronavirus 2,2021-06-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Washington,Spokane County",Homo sapiens,,2021-05-15
+QXD40213.1,Severe acute respiratory syndrome coronavirus 2,2021-06-28T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Washington,Spokane County",Homo sapiens,,2021-05-11
+QWQ79785.1,Severe acute respiratory syndrome coronavirus 2,2021-06-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Washington,Spokane County",Homo sapiens,,2021-04-27
+QWQ79809.1,Severe acute respiratory syndrome coronavirus 2,2021-06-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,"USA: Washington,Spokane County",Homo sapiens,,2021-04-27
+QXG95932.1,Severe acute respiratory syndrome coronavirus 2,2021-07-06T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: West Virginia,Homo sapiens,,2021-05-14
+QXG97131.1,Severe acute respiratory syndrome coronavirus 2,2021-07-06T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: West Virginia,Homo sapiens,,2021-06-13
+QVN44280.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-05-11
+QVO16519.1,Severe acute respiratory syndrome coronavirus 2,2021-05-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,oronasopharynx,2021-05-05
+QVJ32461.1,Severe acute respiratory syndrome coronavirus 2,2021-05-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-04-09
+QVJ57008.1,Severe acute respiratory syndrome coronavirus 2,2021-05-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-04-14
+QVJ60546.1,Severe acute respiratory syndrome coronavirus 2,2021-05-17T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-04-12
+QUC96117.1,Severe acute respiratory syndrome coronavirus 2,2021-04-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,oronasopharynx,2021-03-29
+QTZ07211.1,Severe acute respiratory syndrome coronavirus 2,2021-04-20T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-03-25
+QTS63798.1,Severe acute respiratory syndrome coronavirus 2,2021-04-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wisconsin,Homo sapiens,,2021-03-23
+QVG91329.1,Severe acute respiratory syndrome coronavirus 2,2021-05-14T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wyoming,Homo sapiens,,2021-04-28
+QVE37035.1,Severe acute respiratory syndrome coronavirus 2,2021-05-12T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,USA: Wyoming,Homo sapiens,,2021-04-14
+QUA55759.1,Severe acute respiratory syndrome coronavirus 2,2021-04-21T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Uruguay,Homo sapiens,,2021-03-11
+QXU68235.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-01-21
+QXU68247.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-01-21
+QXU68259.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-02-10
+QXU68271.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-24
+QXU68283.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-03-19
+QXU68295.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-05
+QXU68307.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-01-23
+QXU68331.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-24
+QXU68343.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-04-08
+QXU68355.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-04-17
+QXU68367.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-04-19
+QXU68379.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-04-18
+QXU68391.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-26
+QXU68403.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-10
+QXU68415.1,Severe acute respiratory syndrome coronavirus 2,2021-07-22T00:00:00Z,P.1,4.2/1.18.1.1/v0.1.10/0.3.17,419,complete,nucleocapsid phosphoprotein,Venezuela,Homo sapiens,,2021-05-13
