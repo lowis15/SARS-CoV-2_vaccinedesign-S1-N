@@ -1,0 +1,85 @@
+library(readr)
+library(tidyverse)
+library(fs)
+library(dplyr)
+library(tidyr)
+
+#Read All Files
+data.split <- list.files(pattern = "summary")
+
+#Create empty data frame to store combined .csv files 
+data.merge <- data.frame()
+
+Loop through each CSV file and append its data to the combined data frame
+for (split in data.split) {
+  data <- read.csv(split, header = TRUE)
+  data.merge <- rbind(data.merge, data)
+}
+
+#Validation of Merge by ID
+ID <- unique(data.merge$Entry)
+length(ID)
+
+#Filter 
+data.filter <- filter(data.merge, EpitopeProbability > 0.5)
+view(data.filter)
+
+#Get a vector of unique entry IDs
+unique_entries <- unique(data.filter$Entry)
+
+#Open the output file for writing
+file_con <- file("File Name.fasta", open = "w")
+
+#Loop over the unique entries and extract the amino acid sequences
+for (accession_num in unique_entries) {
+  sequence <- substring(data.filter$AminoAcid[data.filter$Entry == accession_num], 1, nchar(data.filter$AminoAcid[data.filter$Entry == accession_num]))
+  # Write the sequence in FASTA format
+  cat(">", accession_num, "\n", sequence, "\n", file = file_con, append = TRUE)
+}
+
+#Close the output file
+close(file_con)
+
+#Print a confirmation message
+cat("FASTA file 'File Name’ created with", length(unique_entries), "sequences.\n")
+
+---------------------------------------------------------------------
+library(msa)
+library(Biostrings)
+
+#MSA
+fasta <- readAAStringSet("File Name.fasta")
+print(fasta)
+output <- msaClustalW(fasta)
+print(output)
+
+#Convert the MSA to a character matrix
+msa_matrix <- as.matrix(output)
+
+#Split each column of the matrix into a separate column of a data frame
+msa_df <- data.frame(matrix(unlist(strsplit(msa_matrix, "")), ncol=ncol(msa_matrix), byrow=FALSE))
+View(msa_df)
+
+#Create a function to select the letter for each column with 90% conservacy
+select_letter <- function(x) {
+  table_x <- table(x)
+  if (max(table_x)/sum(table_x) >= 0.9) {
+    names(table_x)[which.max(table_x)]
+  } else {
+    NA
+  }
+}
+
+#Apply the select_letter function to each column of the data frame
+selected_letters <- sapply(msa_df, select_letter)
+
+#Create a new data frame with the column names and selected letters
+conserve <- data.frame(column = names(selected_letters), selected_letter = selected_letters)
+
+#Show the new data frame
+View(conserve)
+
+#Save to excel 
+library(openxlsx)
+write.xlsx(conserve, file = "File Name 1.xlsx")
+write.xlsx(msa_df, file = "File Name 2.xlsx")
