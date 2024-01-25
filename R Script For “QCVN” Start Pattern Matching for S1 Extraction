@@ -1,0 +1,14 @@
+library(Biostrings)
+library(openxlsx)
+
+#Read FASTA file
+fasta <- readAAStringSet(".fasta")
+fasta
+
+#Search for the position of pattern "QCVN" pattern
+matches <- vmatchPattern("QCVN", fasta)
+matches1 <- as.data.frame(matches)
+View(matches1)
+
+#Write the matches data frame to a CSV file
+write.xlsx(matches1, file = ".xlsx")
