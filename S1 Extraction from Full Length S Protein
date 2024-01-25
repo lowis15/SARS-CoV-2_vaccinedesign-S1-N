@@ -34,13 +34,6 @@ for (i in 1:length(trimmed)) {
   }
 }
 
-#Loop through the sequences and substitute sequences from mutated pattern (eg. “HCVN”
-for (i in 1:length(trimmed)) {
-  sequence <- as.character(trimmed[[i]])
-  sequence <- sub(".*HCVN" , "HCVN", sequence)
-  trimmed[[i]] <- AAString(sequence)
-}
-
 # Loop through the sequences and substitute sequences from mutated pattern (eg. XRAR)
 for (i in 1:length(trimmed)) {
   sequence <- as.character(trimmed[[i]])
