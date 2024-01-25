@@ -1,0 +1,58 @@
+library(Biostrings)
+
+#Read the FASTA file
+fasta <- readAAStringSet("#File name.fasta")
+print(fasta)
+
+#Loop through the sequences and replace sequences prior and up to the "QCVN" pattern, with "QCVN"
+for (i in 1:length(fasta)) {
+  sequence <- as.character(fasta[[i]]) 
+  sequence <- sub(".*QCVN", "QCVN", sequence) #substitution
+  fasta[[i]] <- AAString(sequence)
+}
+
+#Loop through the sequences again and substitute sequences from "RRAR" pattern and its following, with "RRAR"
+for (i in 1:length(fasta)) {
+  sequence <- as.character(fasta[[i]])
+  sequence <- sub("RRAR.*", "RRAR", sequence)
+  fasta[[i]] <- AAString(sequence)
+}
+
+#Print the trimmed result
+trimmed <-fasta
+print(trimmed)
+
+#Verify
+count <- sum(width(trimmed) > 675)
+print(count)
+
+#Sequences that was not trimmed
+for (i in 1:length(trimmed)) {
+  if (width(trimmed[i]) > 675) {
+    print(paste(">", names(trimmed)[i]))
+    print(as.character(trimmed[i]))
+  }
+}
+
+#Loop through the sequences and substitute sequences from mutated pattern (eg. “HCVN”
+for (i in 1:length(trimmed)) {
+  sequence <- as.character(trimmed[[i]])
+  sequence <- sub(".*HCVN" , "HCVN", sequence)
+  trimmed[[i]] <- AAString(sequence)
+}
+
+# Loop through the sequences and substitute sequences from mutated pattern (eg. XRAR)
+for (i in 1:length(trimmed)) {
+  sequence <- as.character(trimmed[[i]])
+  sequence <- sub("XRAR.*" , "XRAR", sequence)
+  trimmed[[i]] <- AAString(sequence)
+}
+
+print(trimmed)
+
+#Verify after trimming with mutated pattern
+count <- sum(width(trimmed) > 675)
+print(count)
+
+# Write the trimmed sequences to a new fasta file 
+writeXStringSet(trimmed, "File Name.fasta")
