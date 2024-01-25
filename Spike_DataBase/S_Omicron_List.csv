@@ -1,0 +1,377 @@
+Accession,Organism_Name,Release_Date,Pangolin,PangoVersions,Length,Nuc_Completeness,Protein,Geo_Location,Host,Isolation_Source,Collection_Date
+WDB03694.1,Severe acute respiratory syndrome coronavirus 2,2023-02-15T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-11-29
+WDB04369.1,Severe acute respiratory syndrome coronavirus 2,2023-02-15T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-12-18
+WDB05483.1,Severe acute respiratory syndrome coronavirus 2,2023-02-15T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Bahrain,Homo sapiens,,2023-01-01
+WDB09874.1,Severe acute respiratory syndrome coronavirus 2,2023-02-15T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Bahrain,Homo sapiens,,2023-01-29
+UZU90993.1,Severe acute respiratory syndrome coronavirus 2,2022-11-24T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-26
+UZU91975.1,Severe acute respiratory syndrome coronavirus 2,2022-11-24T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-11-06
+UZU92431.1,Severe acute respiratory syndrome coronavirus 2,2022-11-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-11-07
+UZU92524.1,Severe acute respiratory syndrome coronavirus 2,2022-11-24T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-11-09
+UYR39716.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-16
+UYR39976.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-16
+UYR40012.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-16
+UYR40024.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-16
+UYR40329.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-16
+UYR76496.1,Severe acute respiratory syndrome coronavirus 2,2022-10-27T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-10-24
+UXW68809.1,Severe acute respiratory syndrome coronavirus 2,2022-10-05T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-09-29
+UXW69057.1,Severe acute respiratory syndrome coronavirus 2,2022-10-05T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-09-29
+UXW69080.1,Severe acute respiratory syndrome coronavirus 2,2022-10-05T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-09-30
+UWE21679.1,Severe acute respiratory syndrome coronavirus 2,2022-09-06T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,oronasopharynx,2022-08-31
+UWE22299.1,Severe acute respiratory syndrome coronavirus 2,2022-09-06T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,oronasopharynx,2022-08-31
+UVJ48842.1,Severe acute respiratory syndrome coronavirus 2,2022-08-25T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-08-22
+UVJ49140.1,Severe acute respiratory syndrome coronavirus 2,2022-08-25T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-08-23
+UVJ49176.1,Severe acute respiratory syndrome coronavirus 2,2022-08-25T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-08-23
+UPX44534.1,Severe acute respiratory syndrome coronavirus 2,2022-05-05T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-02-07
+UOH86006.1,Severe acute respiratory syndrome coronavirus 2,2022-04-07T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Bahrain,Homo sapiens,,2022-01-25
+UZH66932.1,Severe acute respiratory syndrome coronavirus 2,2022-11-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1271,complete,surface glycoprotein,China,Homo sapiens,,2022-10-27
+UUT03022.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-13
+UUT03034.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-15
+UUT03046.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-15
+UUT03058.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-17
+UUT03082.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-27
+UUT03094.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-29
+UUT03106.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-31
+UUT03118.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-05-31
+UUT03226.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-07-01
+UUT03430.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-06-10
+UUT03442.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-06-12
+UUT03478.1,Severe acute respiratory syndrome coronavirus 2,2022-08-09T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Egypt,Homo sapiens,oronasopharynx,2022-06-16
+WCR32811.1,Severe acute respiratory syndrome coronavirus 2,2023-02-09T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Finland,Homo sapiens,,2022-11-14
+WCT80294.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-11-30
+WCT80390.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-12-05
+WCT80546.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-10-04
+WCT80629.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-10-03
+WCT80844.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-09-18
+UPH85748.1,Severe acute respiratory syndrome coronavirus 2,2022-04-21T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,France,Homo sapiens,oronasopharynx,2022-03-07
+WCC89313.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Germany: Hessen,Homo sapiens,,2022-12-19
+UZZ65601.1,Severe acute respiratory syndrome coronavirus 2,2022-11-30T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Germany: Hessen,Homo sapiens,,2022-10-05
+UZZ66002.1,Severe acute respiratory syndrome coronavirus 2,2022-11-30T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Germany: Hessen,Homo sapiens,,2022-10-13
+WBR20219.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Germany: Rheinland-Pfalz,Homo sapiens,,2022-11-20
+WBR20267.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,Germany: Rheinland-Pfalz,Homo sapiens,,2022-11-21
+UZZ66026.1,Severe acute respiratory syndrome coronavirus 2,2022-11-30T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Germany: Rheinland-Pfalz,Homo sapiens,,2022-10-13
+WCI16196.1,Severe acute respiratory syndrome coronavirus 2,2023-02-01T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,Japan,Homo sapiens,,2022-06-13
+BDX23872.1,Severe acute respiratory syndrome coronavirus 2,2023-02-09T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,Japan: Tokyo,Homo sapiens,,2023-01
+BDX23653.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,Japan:Shizuoka,Homo sapiens,"saliva, oronasopharynx",2023-01-26
+BDX23677.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Japan:Shizuoka,Homo sapiens,"saliva, oronasopharynx",2023-01-05
+BDW80469.1,Severe acute respiratory syndrome coronavirus 2,2023-01-31T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Japan:Shizuoka,Homo sapiens,"saliva, oronasopharynx",2023-01-06
+BDX23386.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,"Japan:Shizuoka, Hamamatsu",Homo sapiens,oronasopharynx,2023-01-12
+BDU99187.1,Severe acute respiratory syndrome coronavirus 2,2022-12-21T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,"Japan:Shizuoka, center",Homo sapiens,"saliva, oronasopharynx",2022-11-28
+BDX14084.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-12-14
+BDX14978.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-12-20
+BDX15575.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-12-24
+BDX15947.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-12-27
+BDU97275.1,Severe acute respiratory syndrome coronavirus 2,2022-12-21T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-11-14
+BDU97814.1,Severe acute respiratory syndrome coronavirus 2,2022-12-21T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-11-14
+BDU48502.1,Severe acute respiratory syndrome coronavirus 2,2022-11-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-10-31
+BDU48550.1,Severe acute respiratory syndrome coronavirus 2,2022-11-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,"Japan:Shizuoka, east",Homo sapiens,oronasopharynx,2022-11-04
+BDX14357.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, west",Homo sapiens,"saliva, oronasopharynx",2022-12-19
+BDX16781.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, west",Homo sapiens,oronasopharynx,2022-12-27
+BDX17020.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,"Japan:Shizuoka, west",Homo sapiens,oronasopharynx,2023-01-04
+WAV58735.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1266,complete,surface glycoprotein,Mexico,Homo sapiens,,2022-01-10
+WAV61481.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1266,complete,surface glycoprotein,Mexico,Homo sapiens,,2022-01-07
+UYE44393.1,Severe acute respiratory syndrome coronavirus 2,2022-10-14T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,New Zealand,Homo sapiens,oronasopharynx,2022-01-15
+WAQ63018.1,Severe acute respiratory syndrome coronavirus 2,2022-12-15T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,Nigeria,Homo sapiens,oronasopharynx,2021-12-18
+WAS08806.1,Severe acute respiratory syndrome coronavirus 2,2022-12-15T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,Russia: Saratov,Homo sapiens,oronasopharynx,2022-09-02
+WAS08854.1,Severe acute respiratory syndrome coronavirus 2,2022-12-15T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,Russia: Saratov,Homo sapiens,oronasopharynx,2022-09-02
+WAS08890.1,Severe acute respiratory syndrome coronavirus 2,2022-12-15T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,Russia: Saratov,Homo sapiens,oronasopharynx,2022-11-25
+WAS08902.1,Severe acute respiratory syndrome coronavirus 2,2022-12-15T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,Russia: Saratov,Homo sapiens,oronasopharynx,2022-11-25
+WCD45032.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,South Africa: Northern Cape,Homo sapiens,,2022-11-18
+UZR07745.1,Severe acute respiratory syndrome coronavirus 2,2022-11-21T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,South Africa: Western Cape,Homo sapiens,,2022-10-07
+UZR08283.1,Severe acute respiratory syndrome coronavirus 2,2022-11-21T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,South Africa: Western Cape,Homo sapiens,,2022-10-17
+WDR26260.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-22
+WDR26611.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-23
+WDR28604.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-08
+WDR28772.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-16
+WDR28851.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-11
+WDR29075.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-01
+WDR29280.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-21
+WDR29504.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-19
+WDR29617.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-07
+WDR30486.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-03
+WDR31537.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-09
+WDR31605.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-04
+WDR31685.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-02-08
+WCK80516.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-18
+WCK80655.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-19
+WCK80726.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2023-01-13
+WBP75284.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2022-12-11
+WBP75308.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2022-12-14
+WBP75415.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2022-12-08
+WBP75666.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2022-12-16
+WBD90187.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA,Homo sapiens,,2022-12-06
+WBD91357.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA,Homo sapiens,,2022-11-28
+WBD91939.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-11-30
+WBD92483.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-11-22
+UTH86129.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-05-31
+UTH86211.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-05-23
+UTH86306.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-05-12
+UTH86341.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-06-06
+UTH86493.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-06-06
+UMM71320.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-02-01
+UMM71427.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1272,complete,surface glycoprotein,USA,Homo sapiens,,2022-02-11
+UMM71915.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1275,complete,surface glycoprotein,USA,Homo sapiens,,2022-01-31
+UMM71999.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-01-18
+UMM72418.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1275,complete,surface glycoprotein,USA,Homo sapiens,,2022-01-18
+UMM72802.1,Severe acute respiratory syndrome coronavirus 2,2022-03-03T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA,Homo sapiens,,2022-01-31
+WBV16150.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-09
+WBV16243.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-09
+WBV16301.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-09
+WBV16408.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-09
+WBV16586.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-09
+WBV17943.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-10
+WBV18105.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-10
+WBV18268.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-10
+WBV18579.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-10
+WBV18663.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2023-01-10
+WBT85306.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-30
+WBT85390.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-30
+WBT85450.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-30
+WBR07558.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-29
+WBR07582.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-29
+WBR07713.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-29
+WBR08293.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-29
+WBR08846.1,Severe acute respiratory syndrome coronavirus 2,2023-01-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-29
+WBP38496.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-18
+WBP38745.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-18
+WBP38889.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-18
+WBP43116.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-22
+WBP43486.1,Severe acute respiratory syndrome coronavirus 2,2023-01-10T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-22
+WBC64135.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-07
+WBC68841.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WBC69174.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WBC69222.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WBC69617.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WBC69677.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WBC78819.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-09
+WBC79741.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-10
+WBC79753.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-10
+WBC79933.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-10
+WAY59092.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-02
+WAY59128.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-02
+WAY59316.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-02
+WAY60428.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY60572.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY60608.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY60704.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY61051.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY61111.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY61134.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY61169.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAY61241.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-03
+WAX27531.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX27543.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX27579.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX27603.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX27794.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX27818.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-08
+WAX31877.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-09
+WAX31901.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-09
+WAX31936.1,Severe acute respiratory syndrome coronavirus 2,2022-12-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: California,Homo sapiens,oronasopharynx,2022-12-09
+WBC71802.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-12-09
+WBC74029.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-12-09
+WBC74352.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-12-09
+WBC75344.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-12-09
+WBC76813.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-12-09
+UZD87554.1,Severe acute respiratory syndrome coronavirus 2,2022-11-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-10-21
+UZD87638.1,Severe acute respiratory syndrome coronavirus 2,2022-11-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-10-21
+UZD87971.1,Severe acute respiratory syndrome coronavirus 2,2022-11-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-10-21
+UZD88210.1,Severe acute respiratory syndrome coronavirus 2,2022-11-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-10-21
+UZD88546.1,Severe acute respiratory syndrome coronavirus 2,2022-11-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Florida,Homo sapiens,oronasopharynx,2022-10-22
+WDG19927.1,Severe acute respiratory syndrome coronavirus 2,2023-02-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-27
+WCN87220.1,Severe acute respiratory syndrome coronavirus 2,2023-02-06T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-11
+WCF43554.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: GA,Homo sapiens,,2022-12-28
+WCF43577.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-02
+WCF43660.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-03
+WCF43828.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-10
+WCF43910.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: GA,Homo sapiens,,2023-01-07
+UYC41960.1,Severe acute respiratory syndrome coronavirus 2,2022-10-12T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2022-09-30
+UYC42638.1,Severe acute respiratory syndrome coronavirus 2,2022-10-12T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2022-09-30
+UUM84368.1,Severe acute respiratory syndrome coronavirus 2,2022-08-07T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2022-07-27
+UQF88950.1,Severe acute respiratory syndrome coronavirus 2,2022-05-10T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Georgia,Homo sapiens,oronasopharynx,2022-04-20
+WCP39923.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Hawaii,Homo sapiens,oronasopharynx,2023-01-26
+WAE01770.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-11-16
+WAE02189.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-11-16
+WAE05619.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-11-16
+WAE05715.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-11-17
+WAA29605.1,Severe acute respiratory syndrome coronavirus 2,2022-12-01T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-11-16
+UYN26851.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-09
+UYN27824.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-10
+UYN42781.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-10
+UYN43889.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-10
+UYL60593.1,Severe acute respiratory syndrome coronavirus 2,2022-10-21T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-05
+UYI50744.1,Severe acute respiratory syndrome coronavirus 2,2022-10-19T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-04
+UYI51926.1,Severe acute respiratory syndrome coronavirus 2,2022-10-19T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-05
+UYI52356.1,Severe acute respiratory syndrome coronavirus 2,2022-10-19T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-05
+UYI53061.1,Severe acute respiratory syndrome coronavirus 2,2022-10-19T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Illinois,Homo sapiens,oronasopharynx,2022-10-06
+WBG24840.1,Severe acute respiratory syndrome coronavirus 2,2023-01-04T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2022-12-13
+WBG25900.1,Severe acute respiratory syndrome coronavirus 2,2023-01-04T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2022-12-14
+WBG27069.1,Severe acute respiratory syndrome coronavirus 2,2023-01-04T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2022-12-15
+WBG27198.1,Severe acute respiratory syndrome coronavirus 2,2023-01-04T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2022-12-15
+WBG30145.1,Severe acute respiratory syndrome coronavirus 2,2023-01-04T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Indiana,Homo sapiens,oronasopharynx,2022-12-16
+WBK31225.1,Severe acute respiratory syndrome coronavirus 2,2023-01-06T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-12-17
+WBK32409.1,Severe acute respiratory syndrome coronavirus 2,2023-01-06T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-12-19
+WBK33685.1,Severe acute respiratory syndrome coronavirus 2,2023-01-06T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-12-20
+WAN24125.1,Severe acute respiratory syndrome coronavirus 2,2022-12-12T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-11-27
+WAL15111.1,Severe acute respiratory syndrome coronavirus 2,2022-12-09T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-11-16
+WAL17045.1,Severe acute respiratory syndrome coronavirus 2,2022-12-09T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-11-17
+UZY27429.1,Severe acute respiratory syndrome coronavirus 2,2022-11-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Kansas,Homo sapiens,oronasopharynx,2022-11-13
+UYH80812.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Nebraska,Homo sapiens,oronasopharynx,2022-09-30
+UYG74199.1,Severe acute respiratory syndrome coronavirus 2,2022-10-17T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Nebraska,Homo sapiens,oronasopharynx,2022-09-23
+WDE61338.1,Severe acute respiratory syndrome coronavirus 2,2023-02-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-02-03
+WDE62692.1,Severe acute respiratory syndrome coronavirus 2,2023-02-17T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-02-03
+WDD85524.1,Severe acute respiratory syndrome coronavirus 2,2023-02-16T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-02-01
+WCC27216.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-01-06
+WCC31975.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-01-07
+WCC35457.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Nevada,Homo sapiens,oronasopharynx,2023-01-08
+UYH97671.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New Hampshire,Homo sapiens,oronasopharynx,2022-10-08
+UYF47304.1,Severe acute respiratory syndrome coronavirus 2,2022-10-17T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: New Hampshire,Homo sapiens,oronasopharynx,2022-10-01
+UXR18141.1,Severe acute respiratory syndrome coronavirus 2,2022-10-04T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New Hampshire,Homo sapiens,oronasopharynx,2022-09-15
+UXH22859.1,Severe acute respiratory syndrome coronavirus 2,2022-09-24T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: New Hampshire,Homo sapiens,oronasopharynx,2022-09-12
+WCK00341.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: New Jersey,Homo sapiens,oronasopharynx,2023-01-16
+WCK00580.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: New Jersey,Homo sapiens,oronasopharynx,2023-01-16
+WCF95604.1,Severe acute respiratory syndrome coronavirus 2,2023-01-31T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: New Jersey,Homo sapiens,oronasopharynx,2023-01-20
+WCG99939.1,Severe acute respiratory syndrome coronavirus 2,2023-01-31T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New Jersey,Homo sapiens,oronasopharynx,2023-01-12
+WCC25996.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2023-01-06
+WCC27328.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2023-01-06
+WCC28714.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2023-01-07
+WCC29507.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2023-01-07
+WCC35011.1,Severe acute respiratory syndrome coronavirus 2,2023-01-26T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2023-01-08
+WBA75123.1,Severe acute respiratory syndrome coronavirus 2,2022-12-27T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-16
+WBA75519.1,Severe acute respiratory syndrome coronavirus 2,2022-12-27T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-16
+WAY07133.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-09
+WAU57206.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-03
+WAU58654.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-03
+WAU58794.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-03
+WAU59488.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-03
+WAU61763.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-04
+WAU62194.1,Severe acute respiratory syndrome coronavirus 2,2022-12-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-12-04
+WAP45725.1,Severe acute respiratory syndrome coronavirus 2,2022-12-14T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-28
+WAP46714.1,Severe acute respiratory syndrome coronavirus 2,2022-12-14T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-29
+WAP46844.1,Severe acute respiratory syndrome coronavirus 2,2022-12-14T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-29
+WAD99915.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-16
+WAE00609.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-16
+WAE00729.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-16
+WAE02129.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-16
+WAE02344.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: New York,Homo sapiens,oronasopharynx,2022-11-16
+WBY82211.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-12
+WBY83969.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-13
+WBY87047.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-15
+WBX04670.1,Severe acute respiratory syndrome coronavirus 2,2023-01-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-02
+WBX04742.1,Severe acute respiratory syndrome coronavirus 2,2023-01-23T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-02
+WBX06184.1,Severe acute respiratory syndrome coronavirus 2,2023-01-23T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2023-01-03
+WAY09761.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-12-10
+WAY11065.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-12-11
+WAY11275.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-12-11
+WAY11499.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-12-11
+WAY12713.1,Severe acute respiratory syndrome coronavirus 2,2022-12-23T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-12-12
+UYH69558.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-10-05
+UYH69570.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-10-05
+UYH80254.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-09-30
+UYH85583.1,Severe acute respiratory syndrome coronavirus 2,2022-10-18T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: North Carolina,Homo sapiens,oronasopharynx,2022-10-02
+WBW67662.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1271,complete,surface glycoprotein,"USA: Oklahoma, Tuttle",Homo sapiens,,2023-01-01
+WBW66484.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,"USA: Oklahoma, Yukon",Homo sapiens,,2023-01-03
+WBW68409.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1271,complete,surface glycoprotein,"USA: Oklahoma, Yukon",Homo sapiens,,2023-01-02
+WDG03461.1,Severe acute respiratory syndrome coronavirus 2,2023-02-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,,2023-02-04
+WAJ10934.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,,2022-11-25
+WAJ11006.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,,2022-11-25
+WAJ11078.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,,2022-11-26
+WAD84522.1,Severe acute respiratory syndrome coronavirus 2,2022-12-05T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,oronasopharynx,2022-11-21
+UZT30461.1,Severe acute respiratory syndrome coronavirus 2,2022-11-22T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Oregon,Homo sapiens,oronasopharynx,2022-11-03
+UZI07566.1,Severe acute respiratory syndrome coronavirus 2,2022-11-11T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,oronasopharynx,2022-10-26
+UZI07683.1,Severe acute respiratory syndrome coronavirus 2,2022-11-11T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Oregon,Homo sapiens,oronasopharynx,2022-10-26
+WCJ04499.1,Severe acute respiratory syndrome coronavirus 2,2023-02-02T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-20
+WCH79891.1,Severe acute respiratory syndrome coronavirus 2,2023-02-01T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-17
+WCH00467.1,Severe acute respiratory syndrome coronavirus 2,2023-01-31T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-12
+WCE17926.1,Severe acute respiratory syndrome coronavirus 2,2023-01-29T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-15
+WCD74580.1,Severe acute respiratory syndrome coronavirus 2,2023-01-28T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-15
+WCD48586.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-07
+WBR99167.1,Severe acute respiratory syndrome coronavirus 2,2023-01-15T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-05
+WBR99693.1,Severe acute respiratory syndrome coronavirus 2,2023-01-15T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2023-01-05
+WBR41082.1,Severe acute respiratory syndrome coronavirus 2,2023-01-13T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-12-26
+WBR41828.1,Severe acute respiratory syndrome coronavirus 2,2023-01-13T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-12-26
+WBR42232.1,Severe acute respiratory syndrome coronavirus 2,2023-01-13T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-12-27
+WAM96170.1,Severe acute respiratory syndrome coronavirus 2,2022-12-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-11-29
+WAM99543.1,Severe acute respiratory syndrome coronavirus 2,2022-12-12T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-11-22
+WAN01381.1,Severe acute respiratory syndrome coronavirus 2,2022-12-12T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-11-23
+WAN02053.1,Severe acute respiratory syndrome coronavirus 2,2022-12-12T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Pennsylvania,Homo sapiens,oronasopharynx,2022-11-23
+WDR16176.1,Severe acute respiratory syndrome coronavirus 2,2023-02-23T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-02-10
+WDG24982.1,Severe acute respiratory syndrome coronavirus 2,2023-02-21T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-02-08
+WDL07646.1,Severe acute respiratory syndrome coronavirus 2,2023-02-21T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-02-05
+WDL14625.1,Severe acute respiratory syndrome coronavirus 2,2023-02-21T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-02-06
+WCZ43594.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-01-25
+WCZ43916.1,Severe acute respiratory syndrome coronavirus 2,2023-02-13T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Tennessee,Homo sapiens,oronasopharynx,2023-01-25
+WBW77111.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-30
+WBW77123.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-30
+WBW82022.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2023-01-02
+WBW82188.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2023-01-02
+WBW82332.1,Severe acute respiratory syndrome coronavirus 2,2023-01-20T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2023-01-02
+WBE78819.1,Severe acute respiratory syndrome coronavirus 2,2023-01-03T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-11
+WBE78999.1,Severe acute respiratory syndrome coronavirus 2,2023-01-03T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-11
+WBE80139.1,Severe acute respiratory syndrome coronavirus 2,2023-01-03T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WBC96463.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WBC96888.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WBC97210.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WBC97258.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WBC97414.1,Severe acute respiratory syndrome coronavirus 2,2022-12-29T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-12-12
+WAT73958.1,Severe acute respiratory syndrome coronavirus 2,2022-12-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-11-29
+WAT74065.1,Severe acute respiratory syndrome coronavirus 2,2022-12-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-11-29
+WAT74281.1,Severe acute respiratory syndrome coronavirus 2,2022-12-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-11-29
+UYN42147.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-10-10
+UYN45407.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-10-10
+UYN45562.1,Severe acute respiratory syndrome coronavirus 2,2022-10-24T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Texas,Homo sapiens,oronasopharynx,2022-10-10
+WCL44885.1,Severe acute respiratory syndrome coronavirus 2,2023-02-04T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Utah,Homo sapiens,oronasopharynx,2023-01-17
+WCD69470.1,Severe acute respiratory syndrome coronavirus 2,2023-01-28T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Utah,Homo sapiens,oronasopharynx,2023-01-07
+WCD49161.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Utah,Homo sapiens,oronasopharynx,2023-01-08
+WBY82630.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-13
+WBY83356.1,Severe acute respiratory syndrome coronavirus 2,2023-01-24T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-13
+WBS39550.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-05
+WBS40112.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-06
+WBS40468.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-06
+WBT72909.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-03
+WBT72943.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-03
+WBT73486.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2023-01-03
+WAH82476.1,Severe acute respiratory syndrome coronavirus 2,2022-12-06T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2022-11-21
+WAH83783.1,Severe acute respiratory syndrome coronavirus 2,2022-12-06T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2022-11-22
+WAH84711.1,Severe acute respiratory syndrome coronavirus 2,2022-12-06T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Virginia,Homo sapiens,oronasopharynx,2022-11-22
+WDP82304.1,Severe acute respiratory syndrome coronavirus 2,2023-02-22T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-02-07
+WDP82550.1,Severe acute respiratory syndrome coronavirus 2,2023-02-22T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-02-08
+WDP82842.1,Severe acute respiratory syndrome coronavirus 2,2023-02-22T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-02-08
+WDP83214.1,Severe acute respiratory syndrome coronavirus 2,2023-02-22T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-02-10
+WDP83344.1,Severe acute respiratory syndrome coronavirus 2,2023-02-22T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,,2023-02-10
+WCP27322.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Washington,Homo sapiens,,2023-01-20
+WCP27458.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-23
+WCP27621.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-23
+WCP27680.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-23
+WCP27962.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-23
+WCP28293.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,XBB.1.5,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-24
+WCP28305.1,Severe acute respiratory syndrome coronavirus 2,2023-02-08T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-24
+WCF85191.1,Severe acute respiratory syndrome coronavirus 2,2023-01-31T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-10
+WCF02585.1,Severe acute respiratory syndrome coronavirus 2,2023-01-30T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-13
+WCD69263.1,Severe acute respiratory syndrome coronavirus 2,2023-01-28T00:00:00Z,XBB,4.2/1.18.1.1/v0.1.10/0.3.17,1269,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-06
+WCD69563.1,Severe acute respiratory syndrome coronavirus 2,2023-01-28T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2023-01-07
+WCD37144.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-12-22
+WCD37347.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-12-22
+WCD37383.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-12-22
+WCD37407.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-12-22
+WCD37467.1,Severe acute respiratory syndrome coronavirus 2,2023-01-27T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-12-22
+WAJ12069.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-11-28
+WAJ12225.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-11-28
+WAJ12367.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,XBF,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-11-28
+WAJ12821.1,Severe acute respiratory syndrome coronavirus 2,2022-12-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Washington,Homo sapiens,oronasopharynx,2022-11-28
+WCO57366.1,Severe acute respiratory syndrome coronavirus 2,2023-02-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,,2022-11-17
+WCO57413.1,Severe acute respiratory syndrome coronavirus 2,2023-02-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,,2022-11-18
+WCO57576.1,Severe acute respiratory syndrome coronavirus 2,2023-02-07T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,,2022-11-17
+WCO57826.1,Severe acute respiratory syndrome coronavirus 2,2023-02-07T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,,2022-11-30
+WCO57898.1,Severe acute respiratory syndrome coronavirus 2,2023-02-07T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,,2022-11-17
+WBV05986.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,oronasopharynx,2023-01-05
+WBV08043.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,CH.1.1,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,oronasopharynx,2023-01-05
+WBV09241.1,Severe acute respiratory syndrome coronavirus 2,2023-01-19T00:00:00Z,BQ.1,4.2/1.18.1.1/v0.1.10/0.3.17,1267,complete,surface glycoprotein,USA: West Virginia,Homo sapiens,oronasopharynx,2023-01-06
+UYZ54557.1,Severe acute respiratory syndrome coronavirus 2,2022-11-03T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Wisconsin,Homo sapiens,oronasopharynx,2022-10-20
+UTV24054.1,Severe acute respiratory syndrome coronavirus 2,2022-07-23T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Wisconsin,Homo sapiens,oronasopharynx,2022-07-10
+UTI21415.1,Severe acute respiratory syndrome coronavirus 2,2022-07-12T00:00:00Z,BA.2.75,4.2/1.18.1.1/v0.1.10/0.3.17,1270,complete,surface glycoprotein,USA: Wisconsin,Homo sapiens,oronasopharynx,2022-06-23
+WBS27069.1,Severe acute respiratory syndrome coronavirus 2,2023-01-17T00:00:00Z,BF.7,4.2/1.18.1.1/v0.1.10/0.3.17,1268,complete,surface glycoprotein,USA: Wyoming,Homo sapiens,oronasopharynx,2022-12-29
+UYW62681.1,Severe acute respiratory syndrome coronavirus 2,2022-11-01T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1271,complete,surface glycoprotein,Viet Nam,Homo sapiens,oronasopharynx,2022-08-16
+UYW64158.1,Severe acute respiratory syndrome coronavirus 2,2022-11-01T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1271,complete,surface glycoprotein,Viet Nam,Homo sapiens,oronasopharynx,2022-08-29
+UPP30651.1,Severe acute respiratory syndrome coronavirus 2,2022-04-28T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,West Bank: Jerusalem,Homo sapiens,oronasopharynx,2022-01-09
+UPP30840.1,Severe acute respiratory syndrome coronavirus 2,2022-04-28T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,West Bank: Ramallah,Homo sapiens,oronasopharynx,2022-01-18
+UPP30924.1,Severe acute respiratory syndrome coronavirus 2,2022-04-28T00:00:00Z,B.1.1.529,4.2/1.18.1.1/v0.1.10/0.3.17,1273,complete,surface glycoprotein,West Bank: Ramallah,Homo sapiens,oronasopharynx,2022-01-12
